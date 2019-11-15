@@ -1,1 +1,1 @@
-#Needed to this dir can be checked in 
+###entityAccessHandler should be renamed entity-access-resolver
