@@ -1,0 +1,1 @@
+lookup-field.def.ts should probably be in condition builder.  it also I think mimics another interface.  it could be replaced probably
