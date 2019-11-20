@@ -1,2 +1,1 @@
-# clearsight-reorg
-folder structure for reorg
+###see readme for list
